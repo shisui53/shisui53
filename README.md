@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajvardhan Naik</h1>
 <h3 align="center">A passionate Full-stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fusa.bootcampcdn.com%2Fwp-content%2Fuploads%2Fsites%2F106%2F2021%2F03%2FCDG_blog_post_image_08-850x412.jpg&tbnid=9ZRoNlt5-rg9YM&vet=12ahUKEwj9lNDQ5NSCAxVJmmMGHb1GAP4QMygkegUIARDDAQ..i&imgrefurl=https%3A%2F%2Fbootcamp.berkeley.edu%2Fblog%2Fhow-to-become-coder-6-months-from-scratch%2F&docid=yxIKZyOmeLibaM&w=850&h=412&q=coder%20&ved=2ahUKEwj9lNDQ5NSCAxVJmmMGHb1GAP4QMygkegUIARDDAQ">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shisui53&label=Profile%20views&color=0e75b6&style=flat" alt="shisui53" /> </p>
 
 - 🌱 I’m currently learning *Core Java,Spring Boot*
